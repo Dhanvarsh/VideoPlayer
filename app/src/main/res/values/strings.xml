@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="user_name">User Name</string>
+    <string name="video_title">Video Title</string>
+    <string name="video_description">Video Description</string>
+    <string name="video_thumbnail">Video Thumbnail</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="related_videos">Related Videos:</string>
+    <string name="mVideo_player">MVideo Player</string>
+
+</resources>

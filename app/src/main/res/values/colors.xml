@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--  <color name="colorPrimary">#ffae8f</color>
+    <color name="colorPrimaryDark">#ff677d</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="bg">#6f5a7e</color>
+    <color name="title">#f1c6de</color>
+    <color name="player">#C1FF677D</color>-->
+
+
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="bg">#ffffff</color>
+    <color name="title">#ffffff</color>
+    <color name="title2">#F1B9C1</color>
+    <color name="player">#C1FF677D</color>
+
+
+</resources>
